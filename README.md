@@ -26,5 +26,6 @@ Also, while I was studying and writing projects, I was solving problems on leetc
 Also I attach certificate that can confirm my knowledge.
 
   1. Programming on Golang: https://stepik.org/cert/2052406
+  2. Algorithms: theory and practice: https://stepik.org/cert/2052530
 
    
