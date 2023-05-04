@@ -22,6 +22,7 @@ Also, while I was studying and writing projects, I was solving problems on leetc
 # CONTACT:
 1. telegram: [adamchinz](https://t.me/adamchinz)
 2. gmail: unitcruz@gmail.com
+3. instagram: [unitcruz](https://instagram.com/unitcruz?igshid=YmMyMTA2M2Y=)
 
 Also I attach certificate that can confirm my knowledge.
 
