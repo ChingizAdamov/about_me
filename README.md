@@ -20,7 +20,7 @@ Also, while I was studying and writing projects, I was solving problems on leetc
   8. Algorithms and data structures.
   
 # CONTACT:
-1. telegram: https://t.me/adamchinz
+1. telegram: [adamchinz](https://t.me/adamchinz)
 2. gmail: unitcruz@gmail.com
 
 Also I attach certificate that can confirm my knowledge.
