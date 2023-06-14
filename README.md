@@ -11,13 +11,14 @@ Also, while I was studying and writing projects, I was solving problems on leetc
 
 # SOME SKILLS:
   1. Golang(Gin);
-  2. SQL(PostgresSQL, MYSQL);
-  3. ClickHouse;
-  4. Linux;
-  5. Familiar with Docker;
-  6. Git(Bitbucket);
-  7. Math background;
-  8. Algorithms and data structures.
+  2. PHP;
+  4. SQL(PostgresSQL, MYSQL);
+  5. ClickHouse;
+  6. Linux;
+  7. Familiar with Docker;
+  8. Git(Bitbucket);
+  9. Math background;
+  10. Algorithms and data structures.
   
 # CONTACT:
 1. telegram: [adamchinz](https://t.me/adamchinz)
