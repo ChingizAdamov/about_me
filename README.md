@@ -1,6 +1,6 @@
 # RESUME
 #### Here is some info about my education :)
-I am studying at St. Petersburg State University of Economics (SPbSUE) majoring in corporate finance. I have been studying backend development since September 2022. Now I'm working on my own pet-projects and looking for a internship. During my education, I have learned and applied on projects:
+I studied at St. Petersburg State University of Economics (SPbSUE) majoring in corporate finance. I have been studying backend development since September 2022. Now I'm working on my own pet-projects and looking for a internship. During my education, I have learned and applied on projects:
    1. knowledge of the how to write effective and readeble code;
    2. working with DBMS and database;
    3. assembly of the docker container and CI/CD deployment;
