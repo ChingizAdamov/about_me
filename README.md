@@ -11,9 +11,9 @@ Also, while I was studying and writing projects, I was solving problems on leetc
 
 # SOME SKILLS:
   1. Golang(Gin);
-  2. PHP;
+  2. Python(Django)
+  3. PHP;
   4. SQL(PostgresSQL, MYSQL);
-  5. ClickHouse;
   6. Linux;
   7. Familiar with Docker;
   8. Git(Bitbucket);
