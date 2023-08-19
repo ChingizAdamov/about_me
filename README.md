@@ -4,10 +4,9 @@ I have graduated at St. Petersburg State University of Economics (SPbSUE) majori
    1. write an effective, readable code;
    2. realize ETL pipeline through orchestration platforms;
    3. EDA;
-   4. Work with BigData;
-   5. Solving classification, clustering and regression problems;
-   6. A/B testing;
-   7. Work with SQL
+   4. Solving classification, clustering and regression problems;
+   5. A/B testing;
+   6. Work with SQL
 
 Also in my education I have taken part in some programming contests on codeforces and all cups that were focused on text analysis, scoring. 
 
