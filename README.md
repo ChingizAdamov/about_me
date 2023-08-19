@@ -25,8 +25,4 @@ Also in my education I have taken part in some programming contests on codeforce
 2. gmail: unitcruz@gmail.com
 3. instagram: [unitcruz](https://instagram.com/unitcruz?igshid=YmMyMTA2M2Y=)
 
-Also I attach certificate that can confirm my knowledge.
-  1. Statistics 1: https://stepik.org/cert/2144387
-  2. Algorithms: theory and practice: https://stepik.org/cert/2052530
-
    
