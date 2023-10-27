@@ -8,7 +8,7 @@ I have graduated at St. Petersburg State University of Economics (SPbSUE) majori
    5. A/B testing;
    6. Work with SQL
 
-Also in my education I have taken part in some programming contests on codeforces and all cups that were focused on text analysis, scoring. 
+Also in my education I have taken part in some programming contests on all cups that were focused on SQL. 
 
 # SOME SKILLS:;
   1. Python(Pandas, Numpy, Seaborn, Matplotlib, Scipy, plotly);
