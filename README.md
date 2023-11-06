@@ -10,13 +10,16 @@ I have graduated at St. Petersburg State University of Economics (SPbSUE) majori
 
 Also in my education I have taken part in programming contests on all cups that were focused on ML. 
 
-# SOME SKILLS:;
+# SOME SKILLS:
   1. Python(Pandas, Numpy, Seaborn, Matplotlib, Scipy, plotly);
   2. SQL(PostgresSQL, MYSQL);
   3. AirFlow; 
   4. Familiar with Docker;
   5. Git(Bash);
   6. Math background.
+
+# COURSES:
+1. Основы статистики: (https://stepik.org/cert/2144387)
   
 # CONTACT:
 1. telegram: [adamchinz](https://t.me/adamchinz)
