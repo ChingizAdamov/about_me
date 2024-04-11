@@ -1,6 +1,6 @@
 # RESUME
 #### Here is some info about my education :)
-I have graduated at St. Petersburg State University of Economics (SPbSUE) majoring in corporate finance. I have been studying data analyze since march 2023. I am currently looking for a job as a Data Analyst. During my education, I learned the following skills:
+I have graduated at St. Petersburg State University of Economics (SPbSUE) majoring in corporate finance. I have been studying data analyze since march 2023. I am currently looking for a job as a Product Analyst. During my education, I learned the following skills:
    1. write an effective, readable code;
    2. implementation of parametric and nonparametric statistical tests;
    3. visualistion with redash;
@@ -20,8 +20,7 @@ Also in my education I have taken part in programming contests on all cups that 
 
 # COURSES:
 1. Основы статистики: [сертификат](https://stepik.org/cert/2144387)
-2. Твой путь в мир data analytics Karpov Courses
-3. Прикладная статистика и анализ данных в Python от ВШЭ [ссылка на источник](https://www.youtube.com/@user-bg8cd4fn7d)
+2. Прикладная статистика и анализ данных в Python от ВШЭ [ссылка на источник](https://www.youtube.com/@user-bg8cd4fn7d)
   
 # CONTACT:
 1. telegram: [adamchinz](https://t.me/adamchinz)
