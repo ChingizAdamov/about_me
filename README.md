@@ -6,17 +6,17 @@ I have graduated at St. Petersburg State University of Economics (SPbSUE) majori
    3. visualistion with redash;
    4. data parsing using api;
    5. A/B testing;
-   6. Work with SQL
-
-Also in my education I have taken part in programming contests on all cups that were focused on ML. 
+   6. Work with SQL 
 
 # SOME SKILLS:
-  1. Python(Pandas, Numpy, Seaborn, Matplotlib, Scipy, plotly);
-  2. SQL(PostgresSQL, MYSQL);
+  1. Python;
+  2. SQL(PostgreSQL, ClickHouse);
   3. AirFlow; 
   4. Familiar with Docker;
-  5. Git(Bash);
-  6. Math background.
+  5. Git(Github, Gitlab);
+  6. Math background;
+  7. Theory of Probability and Mathematical Statistics;
+  8. Familiar with basic machine learning algorithms.
 
 # COURSES:
 1. Основы статистики: [сертификат](https://stepik.org/cert/2144387)
