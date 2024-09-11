@@ -17,10 +17,6 @@ I have graduated at St. Petersburg State University of Economics (SPbSUE) majori
   6. Math background;
   7. Theory of Probability and Mathematical Statistics;
   8. Familiar with basic machine learning algorithms.
-
-# COURSES:
-1. Основы статистики: [сертификат](https://stepik.org/cert/2144387)
-2. Прикладная статистика и анализ данных в Python от ВШЭ [ссылка на источник](https://www.youtube.com/@user-bg8cd4fn7d)
   
 # CONTACT:
 1. telegram: [adamchinz](https://t.me/adamchinz)
